@@ -22,7 +22,7 @@ Esta pagina lo que hace es mostar imagenes, un pequeño texto y una fecha la cua
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [https://github.com/MariaJose3535/Simple-Article-Listing]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Deploy: [https://mariajose3535.github.io/Simple-Article-Listing/](http://yomidev.github.io/newsletter/)
 ---
 
 ## 📝 Reflexión
